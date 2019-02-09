@@ -4,7 +4,7 @@ use ieee.std_logic_1164.all;
 entity test is
   port(
     clk     : in std_logic;
-    reset   : in std_logic
+    resetn   : in std_logic
     );
     
 end entity;
